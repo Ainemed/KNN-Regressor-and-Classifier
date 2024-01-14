@@ -1,4 +1,4 @@
-# Welcome to your Jupyter Book
+# Welcome to my Jupyter Book &#8212; KNN Classifier and Regressor
 
 This is a small sample book to give you a feel for how book content is
 structured.
