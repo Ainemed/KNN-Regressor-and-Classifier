@@ -4,7 +4,8 @@
 format: jb-book
 root: intro
 chapters:
-- file: mymarkdownfile
-- file: knn
-- file: theory
 - file: main_branch
+- file: theory
+- file: data_process
+- file: knn
+
