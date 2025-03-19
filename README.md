@@ -1,4 +1,2 @@
 # DWM-KNN
-Il Capitolo "Implementation and Analysis of KNN with a Dataset" fà un 
-riassunto delle varie parti del mio progetto. Invece le altre pagine
-contengono un'analisi più approfondita degli argomenti trattati
+The chapter **"Implementation and Analysis of KNN with a Dataset"** provides a summary of the various parts of my project. In contrast, the other pages contain a more in-depth analysis of the topics covered.
